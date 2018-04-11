@@ -1,0 +1,6 @@
+${openstm32_compiler_path}\arm-none-eabi-objdump.exe
+
+
+${workspace_loc:/lab1/Debug}
+
+-tlab1.elf
